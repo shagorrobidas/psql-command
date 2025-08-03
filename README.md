@@ -65,4 +65,3 @@ pg_dump -U your_username your_db_name > backup_file.sql
 psql -U your_username your_db_name < backup_file.sql
 ```
 
-#### shagor Robidas
